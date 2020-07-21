@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap");
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #fff;
+  color: #000;
+}
+
+nav a.navbar-brand {
+  font-weight: 600;
+  color: #1d75bd !important;
+}
+
+nav .btn-primary {
+  background: #1d75bd;
+  color: #fff !important;
+  border-radius: 80px;
+  padding: 10px 25px !important;
+  margin-left: 15px;
+}
+
+.navbar-dark {
+  background: transparent !important;
+}
+
+.nav-link {
+  color: #000 !important;
+  padding-left: 15px;
+}
+
+.hero .jumbotron {
+  width: 100%;
+  height: 100vh;
+}
+
+.jumbotron-fluid {
+  background-image: url("https://cdn.dribbble.com/users/110372/screenshots/6058542/digitanium_server_4x.png?compress=1&resize=1200x900");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.jumbotron-fluid h1 {
+  font-weight: 600;
+  letter-spacing: 1.5px;
+}
+
+.jumbotron-fluid p {
+  font-size: 28px;
+  letter-spacing: 1.5px;
+  line-height: 1.75;
+  color: #444;
+  padding: 0px 80px;
+}
+
+.scd .section-title h1 {
+  font-weight: 600;
+}
+
+.scd .section-title p {
+  font-size: 26px;
+}
+
+.scd .fa-rocket {
+  color: #1d75bd;
+  text-shadow: 5px 5px 20px;
+}
+
+.scd .fa-user {
+  color: #f7797d;
+  text-shadow: 5px 5px 20px;
+}
+
+.scd .fa-thumbs-up {
+  color: #8E2DE2;
+  text-shadow: 5px 5px 20px;
+}
+
+.scd .linea {
+  width: 100px;
+  height: 3px;
+}
+
+.scd .linea-o {
+  background: #1d75bd;
+}
+
+.scd .linea-d {
+  background: #F7797D;
+}
+
+.scd .linea-t {
+  background: #8E2DE2;
+}
+
+.trd {
+  height: 75vh;
+  background-image: url("https://png2.kisspng.com/sh/143a1a17b54e2850ee28fadd55cb208e/L0KzQYm3U8MyN6NofZH0aYP2gLBuTgRpbaFukJ9rYXPud8P2lf5lNaF3h9Vuc4Owc7F0kQV1baMyhtd9d3B1e376gBVvbaNARadqYna4QLS5hfJnOmU5RqMEM0a0QIiCUcUzOmU9T6YEMEm5RoW1kP5o/kisspng-thepix-background-process-computer-network-scenery-5abf50c2ebf244.1936107915224874909664.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center left;
+}
+
+.trd .trd-title {
+  font-weight: 600;
+}
+
+.testimonial .testimonial-img {
+  width: 50%;
+}
+
+.testimonial blockquote {
+  padding-left: 80px;
+  padding-right: 80px;
+  font-weight: 600;
+  line-height: 1.75;
+}
+
+.testimonial small {
+  font-size: 14px;
+  color: #444;
+  line-height: 1.75;
+}
+
+.testimonial .btn-primary {
+  background: #1d75bd;
+  color: #fff !important;
+  border-radius: 80px;
+  padding: 10px 25px !important;
+  margin-left: 15px;
+  -webkit-box-shadow: 0px 8px 20px #1d75bd;
+          box-shadow: 0px 8px 20px #1d75bd;
+}
+/*# sourceMappingURL=style.css.map */
